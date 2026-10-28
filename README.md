@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1npzubOoZRn5DFknaMJQQ4hmPSTsthmec/view?usp=sharing" alt="Bhavya Pidikiti | AI Data Engineer | Cloud Data Engineering" width="100%" />
+<img src="https://drive.google.com/file/d/1npzubOoZRn5DFknaMJQQ4hmPSTsthmec/view" alt="Bhavya Pidikiti | AI Data Engineer | Cloud Data Engineering" width="100%" />
 
 <br/>
 
